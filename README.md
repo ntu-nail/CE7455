@@ -33,21 +33,21 @@ In this course, students will learn state-of-the-art deep learning methods for N
 
 - Every two-hour lecture will be accompanied by practical problems implemented in PyTorch.
 - There will be NO office hour.
-- There will be 5% marks for class participation.
+- There will be ***5%*** marks for class participation.
 
 **Assignments (individually graded)**
 
-- There will be three (3) assignments contributing to 3 * 15% = 45% of the total assessment.
+- There will be three (3) assignments contributing to ***3 * 15% = 45%*** of the total assessment.
 - Late day policy
-  - 2 free late days; afterwards,10% off per day late
+  - 2 free late days; afterwards,***10%*** off per day late
   - Not accepted after 3 late days
 - Students will be graded individually on the assignments. They will be allowed to discuss with each other on the homework assignments, but they are required to submit individual write-ups and coding exercises.
 
 **Final Project (Group work but individually graded)**
 
 - There will be a final project contributing to the remaining 50% of the total course-work assessment.
-  - 1–3 people per group
-  - Project proposal: 5%, update: 5%, presentation: 10%, report: 30%
+  - ***1–3*** people per group
+  - Project proposal: ***5%***, update: ***5%***, presentation: ***10%***, report: ***30%***
 - The project will be a group or individual work depending on the student’s preference. Students will be graded individually. The final project presentation will ensure the student’s understanding of the project
 
 # Course Prerequisites
@@ -57,13 +57,11 @@ In this course, students will learn state-of-the-art deep learning methods for N
 - Basic Probability and Statistics
 - Machine Learning basics
 
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
+# Teaching
+
+<p align="center" width="100%">
+    <img width="33%" src="https://ntu-nail.github.io/People/Luu_Anh_Tuan.png"> 
+</p>
 
 # Schedule & Course Content
 

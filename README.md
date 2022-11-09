@@ -55,7 +55,15 @@ In this course, students will learn state-of-the-art deep learning methods for N
 - Proficiency in Python (using numpy and PyTorch). There is a lecture for those who are not familiar with Python.
 - College Calculus, Linear Algebra
 - Basic Probability and Statistics
-- Machine Learning ```diff - basics```
+- Machine Learning basics
+
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
 
 # Schedule & Course Content
 

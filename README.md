@@ -1,4 +1,4 @@
-# MH6812: Deep Neural Networks for Natural Language Processing: From Theory to Practice
+# MH6812: Advanced Natural Language Processing with Deep Learning
 
 # Course Objectives
 

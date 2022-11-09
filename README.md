@@ -37,7 +37,7 @@ In this course, students will learn state-of-the-art deep learning methods for N
 
 **Assignments (individually graded)**
 
-- There will be three (3) assignments contributing to ***3 * 15% = 45%*** of the total assessment.
+- There will be three (3) assignments contributing to <p style="color:red;">3 * 15% = 45%</p> of the total assessment.
 - Late day policy
   - 2 free late days; afterwards,***10%*** off per day late
   - Not accepted after 3 late days

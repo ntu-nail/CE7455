@@ -65,7 +65,7 @@ In this course, students will learn state-of-the-art deep learning methods for N
     <img width="33%" src="https://ntu-nail.github.io/People/Luu_Anh_Tuan.png"> 
 </p>
 
-<p align="center" width="100%">[Luu Anh Tuan](https://tuanluu.github.io/)</p>
+<p align="center" width="100%" href="https://tuanluu.github.io/">Luu Anh Tuan</p>
 
 # Schedule & Course Content
 

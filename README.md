@@ -31,30 +31,26 @@ In this course, students will learn state-of-the-art deep learning methods for N
 
 **Weekly Workload**
 
-- Every two-hour lecture will be accompanied by practical problems implemented in PyTorch.
+- Lecture and/or tutorial and/or practical problems implemented in PyTorch.
 - There will be NO office hour.
-- There will be ***5%*** marks for class participation.
+- There will be ***10%*** marks for class participation.
 
 **Assignments (individually graded)**
 
-- There will be three (3) assignments contributing to ***3 * 15% = 45%*** of the total assessment.
-- Late day policy
-  - 2 free late days; afterwards,***10%*** off per day late
-  - Not accepted after 3 late days
+- There will be two (2) assignments contributing to ***2 * 20% = 40%*** of the total assessment.
 - Students will be graded individually on the assignments. They will be allowed to discuss with each other on the homework assignments, but they are required to submit individual write-ups and coding exercises.
 
 **Final Project (Group work but individually graded)**
 
 - There will be a final project contributing to the remaining 50% of the total course-work assessment.
   - ***1–3*** people per group
-  - Project proposal: ***5%***, update: ***5%***, presentation: ***10%***, report: ***30%***
+  - Project proposal: ***5%***, presentation: ***10%***, report: ***35%***
 - The project will be a group or individual work depending on the student’s preference. Students will be graded individually. The final project presentation will ensure the student’s understanding of the project
 
 # Course Prerequisites
 
 - Proficiency in Python (using numpy and PyTorch). There is a lecture for those who are not familiar with Python.
-- College Calculus, Linear Algebra
-- Basic Probability and Statistics
+- Linear Algebra, basic Probability and Statistics
 - Machine Learning basics
 
 # Teaching
@@ -80,7 +76,7 @@ In this course, students will learn state-of-the-art deep learning methods for N
 
 ## Week 1
 
-[Lecture Slide](https://drive.google.com/file/d/1QMviMtfgjz5rNZpaW5oLOXDfqSPXmFBf/view?usp=sharing)
+[Lecture Slide](https://drive.google.com/file/d/1PecYFKzOAtV5DfcC1DowMYkuh6HVgmHt/view?usp=share_link)
 
 ### Lecture Content
 

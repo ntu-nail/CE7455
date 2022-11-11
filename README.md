@@ -71,6 +71,14 @@ In this course, students will learn state-of-the-art deep learning methods for N
 </p>
 
 <p align="center" width="100%">Nguyen Tran Cong Duy</p>
+<p align="center" width="100%">NGUYENTR003@e.ntu.edu.sg</p>
+
+<p align="center" width="100%">
+    <img width="20%" src="/assets/images/pp.png"> 
+</p>
+
+<p align="center" width="100%">Vijay Prakash Dwivedi</p>
+<p align="center" width="100%">VIJAYPRA001@e.ntu.edu.sg</p>
 
 # Schedule & Course Content
 

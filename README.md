@@ -77,7 +77,7 @@ In this course, students will learn state-of-the-art deep learning methods for N
     <img width="20%" src="/assets/images/pp.png"> 
 </p>
 
-<p align="center" width="100%">Vijay Prakash Dwivedi</p>
+<p align="center" width="100%"><a href="https://vijaydwivedi.com.np/">Vijay Prakash Dwivedi</a></p>
 <p align="center" width="100%">VIJAYPRA001@e.ntu.edu.sg</p>
 
 # Schedule & Course Content

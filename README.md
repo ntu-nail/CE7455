@@ -109,3 +109,25 @@ In this course, students will learn state-of-the-art deep learning methods for N
 - [Supplementary]
   - Numerical programming with numpy/scipy - [Numpy intro](https://drive.google.com/file/d/1cUzRzQGURrCKes8XynvTTA4Zvl_gUJdc/view?usp=sharing)
   - Numerical programming with Pytorch - [Pytorch intro](https://drive.google.com/file/d/18cgPOj2QKQN0WR9_vXoz6BoravvS9mTm/view?usp=sharing)
+
+## Week 2
+
+[Lecture Slide]()
+
+### Lecture Content
+
+- What is Machine Learning?
+- Supervised vs. unsupervised learning
+- Linear Regression
+- Logistic Regression
+- Multi-class classification
+- Parameter estimation (MLE & MAP)
+- Gradient-based optimization & SGD
+
+### Practical exercise with Pytorch
+
+- [Deep learning with PyTorch](https://drive.google.com/file/d/1c33y8bkdr7SJ_I8-wmqTAhld-y7KcspA/view?usp=sharing)
+- [Linear Regressionn](https://colab.research.google.com/drive/1krekWlJPHjvxH6fMzjYohR-1OX43bp67)
+- [Logistic Regression](https://colab.research.google.com/drive/1rpvMmkYgU3LWnmsG7xaowDhAdJCWFzOU)
+- [Supplementary]
+  - Numerical programming with Pytorch - [Pytorch intro](https://drive.google.com/file/d/18cgPOj2QKQN0WR9_vXoz6BoravvS9mTm/view?usp=sharing)

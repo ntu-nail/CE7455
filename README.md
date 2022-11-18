@@ -126,8 +126,8 @@ In this course, students will learn state-of-the-art deep learning methods for N
 
 ### Practical exercise with Pytorch
 
-- [Deep learning with PyTorch](https://drive.google.com/file/d/1c33y8bkdr7SJ_I8-wmqTAhld-y7KcspA/view?usp=sharing)
-- [Linear Regressionn](https://colab.research.google.com/drive/1krekWlJPHjvxH6fMzjYohR-1OX43bp67)
-- [Logistic Regression](https://colab.research.google.com/drive/1rpvMmkYgU3LWnmsG7xaowDhAdJCWFzOU)
+- [Deep learning with PyTorch](https://colab.research.google.com/drive/1aZVfsPUko-ugt1TVCmRwqGJXlxEJVaTq?usp=sharing)
+- [Linear Regressionn](https://colab.research.google.com/drive/12QpBf7x_Jt6-zypN4OrUFFHXz1u6CmYe?usp=sharing)
+- [Logistic Regression](https://colab.research.google.com/drive/12OsQkJHpxT5fvxdjFYfGgoUkS8xalxm5?usp=sharing)
 - [Supplementary]
   - Numerical programming with Pytorch - [Pytorch intro](https://drive.google.com/file/d/18cgPOj2QKQN0WR9_vXoz6BoravvS9mTm/view?usp=sharing)

@@ -132,9 +132,9 @@ In this course, students will learn state-of-the-art deep learning methods for N
 - [Supplementary]
   - Numerical programming with Pytorch - [Pytorch intro](https://drive.google.com/file/d/18cgPOj2QKQN0WR9_vXoz6BoravvS9mTm/view?usp=sharing)
 
-## Week 3: Deep Learning Basics
+## Week 3: Neural Networks & Optimization Basics
 
-[Lecture Slide](https://drive.google.com/file/d/1O5P0NkB1JdgXgrlQJyN9m3wTxY6CH8S6/view?usp=share_link)
+[Lecture Slide](https://drive.google.com/file/d/1MJ6IhFr-fls4qrkXTB7aozsIea4UUpq0/view?usp=share_link)
 
 ### Lecture Content
 

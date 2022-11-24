@@ -82,7 +82,7 @@ In this course, students will learn state-of-the-art deep learning methods for N
 
 # Schedule & Course Content
 
-## Week 1
+## Week 1: Introduction
 
 [Lecture Slide](https://drive.google.com/file/d/1PecYFKzOAtV5DfcC1DowMYkuh6HVgmHt/view?usp=share_link)
 
@@ -110,7 +110,7 @@ In this course, students will learn state-of-the-art deep learning methods for N
   - Numerical programming with numpy/scipy - [Numpy intro](https://drive.google.com/file/d/1cUzRzQGURrCKes8XynvTTA4Zvl_gUJdc/view?usp=sharing)
   - Numerical programming with Pytorch - [Pytorch intro](https://drive.google.com/file/d/18cgPOj2QKQN0WR9_vXoz6BoravvS9mTm/view?usp=sharing)
 
-## Week 2
+## Week 2: Machine Learning Basics
 
 [Lecture Slide](https://drive.google.com/file/d/15Ks4fDmDefmwDoIcL3npleY9hWPlsvdY/view?usp=sharing)
 
@@ -131,3 +131,17 @@ In this course, students will learn state-of-the-art deep learning methods for N
 - [Logistic Regression](https://colab.research.google.com/drive/1nTrYW5dUu6WO9cx7SGEvP9oX7qRbsGJk?usp=sharing)
 - [Supplementary]
   - Numerical programming with Pytorch - [Pytorch intro](https://drive.google.com/file/d/18cgPOj2QKQN0WR9_vXoz6BoravvS9mTm/view?usp=sharing)
+
+## Week 3: Deep Learning Basics
+
+[Lecture Slide](https://drive.google.com/file/d/1O5P0NkB1JdgXgrlQJyN9m3wTxY6CH8S6/view?usp=share_link)
+
+### Lecture Content
+
+- From Logistic Regression to Feed-forward NN
+- Activation functions
+- SGD with Backpropagation
+- Adaptive SGD (adagrad, adam, RMSProp)
+- Regularization (Weight Decay, Dropout, Batch normalization, Gradient clipping)
+
+### Practical exercise with Pytorch

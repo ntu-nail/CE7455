@@ -139,9 +139,19 @@ In this course, students will learn state-of-the-art deep learning methods for N
 ### Lecture Content
 
 - From Logistic Regression to Feed-forward NN
-- Activation functions
+  - Activation functions
 - SGD with Backpropagation
 - Adaptive SGD (adagrad, adam, RMSProp)
 - Regularization (Weight Decay, Dropout, Batch normalization, Gradient clipping)
 
 ### Practical exercise with Pytorch
+
+- [Deep learning with PyTorch](https://colab.research.google.com/drive/1aZVfsPUko-ugt1TVCmRwqGJXlxEJVaTq?usp=sharing)
+- [Linear Regressionn](https://colab.research.google.com/drive/12QpBf7x_Jt6-zypN4OrUFFHXz1u6CmYe?usp=sharing)
+- [Logistic Regression](https://colab.research.google.com/drive/1nTrYW5dUu6WO9cx7SGEvP9oX7qRbsGJk?usp=sharing)
+- [Numpy notebook](https://colab.research.google.com/drive/1IAonxZnZjJb0_xUVWHt5atIxaI5GTJQ2) [Pytorch notebook](https://colab.research.google.com/drive/1YzZrMAmJ3hjvJfNIdGxae9kxGABG6yaT)
+- Backpropagation
+- Dropout
+- Batch normalization
+- Initialization
+- Gradient clipping

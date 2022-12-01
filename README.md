@@ -156,7 +156,7 @@ In this course, students will learn state-of-the-art deep learning methods for N
 - Initialization
 - Gradient clipping
 
-## Week 3: Word Vectors (Introduction)
+## Week 4: Word Vectors (Introduction)
 
 [Lecture Slide]()
 

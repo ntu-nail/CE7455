@@ -191,7 +191,7 @@ In this course, students will learn state-of-the-art deep learning methods for N
 
 ## Week 5: Window-based Approach and Convolutional Nets
 
-[Lecture Slide]()
+[Lecture Slide](https://drive.google.com/file/d/1_kqZuimxJbUMVKcAeDpkc0WE0FhQTxDf/view?usp=share_link)
 <!-- [Tutorial 2](https://drive.google.com/file/d/14CLWxOF14YmJepCurFtraymE1WDvZ7xU/view?usp=sharing) -->
 
 ### Lecture Content

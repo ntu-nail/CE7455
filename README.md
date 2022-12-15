@@ -216,7 +216,7 @@ In this course, students will learn state-of-the-art deep learning methods for N
 
 ## Week 6: Recurrent Neural Nets
 
-[Lecture Slide]()
+[Lecture Slide](https://drive.google.com/file/d/1LYFH79pH8y0tLjat2b1YX4NukH9NFjLU/view?usp=share_link)
 <!-- [Tutorial 3](https://drive.google.com/file/d/1YIZn3SzcRdVtagCp9D1RhsgCs0H83FNv/view?usp=sharing) -->
 
 ### Lecture Content

@@ -252,7 +252,7 @@ In this course, students will learn state-of-the-art deep learning methods for N
 
 ## Week 7: Machine translation and Seq2Seg Models
 
-[Lecture Slide]()
+[Lecture Slide](https://drive.google.com/file/d/1w0O323vK9YzKxJSMMWHej-EA15RdAfOc/view?usp=share_link)
 <!-- [Tutorial]() -->
 
 ### Lecture Content

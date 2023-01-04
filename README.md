@@ -280,7 +280,7 @@ Assignment 1 is out [here](https://drive.google.com/file/d/1wnEMADCwZNrDTKHJ7kyH
 
 ## Week 8: Seq2Seg Models, Attentions, Subwords
 
-[Lecture Slide]()
+[Lecture Slide](https://drive.google.com/file/d/1z3wlEW36nCtXi4VCabCVzgf_IQtkToH4/view?usp=share_link)
 
 ### Lecture Content
 

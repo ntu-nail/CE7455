@@ -1,4 +1,4 @@
-# MH6812: Advanced Natural Language Processing with Deep Learning
+# AI6127: Deep Neural Networks For Natural Language Processing
 
 # Course Objectives
 
@@ -33,17 +33,16 @@ In this course, students will learn state-of-the-art deep learning methods for N
 
 - Lecture and/or tutorial and/or practical problems implemented in PyTorch.
 - There will be NO office hour.
-- There will be ***10%*** marks for class participation.
 
 **Assignments (individually graded)**
 
-- There will be two (2) assignments contributing to ***2 * 20% = 40%*** of the total assessment.
+- There will be two (2) assignments contributing to ***2 * 25% = 50%*** of the total assessment.
 - Students will be graded individually on the assignments. They will be allowed to discuss with each other on the homework assignments, but they are required to submit individual write-ups and coding exercises.
 
 **Final Project (Group work but individually graded)**
 
 - There will be a final project contributing to the remaining 50% of the total course-work assessment.
-  - ***1–4*** people per group
+  - ***2–4*** people per group
   - Project proposal: ***5%***, presentation: ***10%***, report: ***35%***
 - The project will be a group or individual work depending on the student’s preference. Students will be graded individually. The final project presentation will ensure the student’s understanding of the project
 
@@ -84,7 +83,7 @@ In this course, students will learn state-of-the-art deep learning methods for N
 
 ## Week 1: Introduction
 
-[Lecture Slide](https://drive.google.com/file/d/1PecYFKzOAtV5DfcC1DowMYkuh6HVgmHt/view?usp=share_link)
+[Lecture Slide]()
 
 ### Lecture Content
 
@@ -110,6 +109,7 @@ In this course, students will learn state-of-the-art deep learning methods for N
   - Numerical programming with numpy/scipy - [Numpy intro](https://drive.google.com/file/d/1cUzRzQGURrCKes8XynvTTA4Zvl_gUJdc/view?usp=sharing)
   - Numerical programming with Pytorch - [Pytorch intro](https://drive.google.com/file/d/18cgPOj2QKQN0WR9_vXoz6BoravvS9mTm/view?usp=sharing)
 
+<!--
 ## Week 2: Machine Learning Basics
 
 [Lecture Slide](https://drive.google.com/file/d/15Ks4fDmDefmwDoIcL3npleY9hWPlsvdY/view?usp=sharing)
@@ -300,3 +300,4 @@ Assignment 1 is out [here](https://drive.google.com/file/d/1wnEMADCwZNrDTKHJ7kyH
 - [Neural Machine Translation by Jointly Learning to Align and Translate (original seq2seq+attention paper)](https://arxiv.org/pdf/1409.0473.pdf)
 - [Effective Approaches to Attention-based Neural Machine Translation](https://nlp.stanford.edu/~lmthang/data/papers/emnlp15_attn.pdf)
 - [Achieving Open Vocabulary Neural Machine Translation with Hybrid Word-Character Models](https://arxiv.org/abs/1604.00788)
+-->

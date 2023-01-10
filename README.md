@@ -1,4 +1,4 @@
-# AI6127: Deep Neural Networks For Natural Language Processing
+# CE7455: Deep Learning For Natural Language Processing
 
 # Course Objectives
 
@@ -66,11 +66,11 @@ In this course, students will learn state-of-the-art deep learning methods for N
 <p align="center" width="100%">Teaching Assistants</p>
 
 <p align="center" width="100%">
-    <img width="20%" src="/assets/images/ntcd.png"> 
+    <img width="20%" src="/assets/images/xb.png"> 
 </p>
 
-<p align="center" width="100%">Nguyen Tran Cong Duy</p>
-<p align="center" width="100%">NGUYENTR003@e.ntu.edu.sg</p>
+<p align="center" width="100%">Wu Xiaobao</p>
+<p align="center" width="100%">Xiaobao002@e.ntu.edu.sg</p>
 
 <p align="center" width="100%">
     <img width="20%" src="/assets/images/pp.png"> 

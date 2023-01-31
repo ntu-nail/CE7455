@@ -154,3 +154,37 @@ In this course, students will learn state-of-the-art deep learning methods for N
 - Batch normalization
 - Initialization
 - Gradient clipping
+
+
+## Week 4: Word Vectors 
+
+[Lecture Slide](https://drive.google.com/file/d/1HcqYISuCx2t2OJkWW_VnvoUAar52hUO2/view?usp=share_link)
+
+[Project Proposal Instruction](https://drive.google.com/file/d/15YlBKNN61fCLkSLzGERHjROVY_-SlwnA/view?usp=share_link)
+
+### Lecture Content
+
+- Word meaning
+- Denotational semantics
+- Distributed representation of words
+- Word2Vec models (Skip-gram, CBOW)
+- Negative sampling
+- FastText
+- Evaluating word vectors
+  - Intrinsic evaluation
+  - Extrinsic evaluation
+- Cross-lingual word embeddings
+
+### Practical exercise with Pytorch
+
+[Skip-gram training](https://colab.research.google.com/drive/164dB-Vemzwavf1ffqDDVNtx7Y5VtcmQh)
+
+### Suggested Readings
+
+- Word2Vec Tutorial - The Skip-Gram Model, [blog](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/)
+- [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/abs/1301.3781) - Original word2vec paper
+- [Distributed Representations of Words and Phrases and their Compositionality](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf) - negative sampling paper
+- [GloVe: Global Vectors for Word Representation](https://nlp.stanford.edu/pubs/glove.pdf)
+- [FastText: Enriching Word Vectors with Subword Information](https://www.mitpressjournals.org/doi/abs/10.1162/tacl_a_00051?mobileUi=0)
+- [Linguistic Regularities in Sparse and Explicit Word Representations.](https://levyomer.files.wordpress.com/2014/04/linguistic-regularities-in-sparse-and-explicit-word-representations-conll-2014.pdf)
+- [Neural Word Embeddings as Implicit Matrix Factorization.](https://arxiv.org/abs/1702.02098)

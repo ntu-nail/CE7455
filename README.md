@@ -328,3 +328,30 @@ Assignment 1 is out [here](https://drive.google.com/file/d/1H5k0ciYVTwz18-Rgilo6
 - [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
 - [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
 - [Resurrecting Submodularity in Neural Abstractive Summarization](https://arxiv.org/abs/1911.03014)
+
+## Week 10: Contextual embeddings and self-supervised learning
+
+[Lecture Slide](https://drive.google.com/file/d/18upNeGM8YdUMl9dn-FqfVrIeFVfb3mtb/view?usp=share_link)
+
+Assignment 2 is out [here](https://docs.google.com/document/d/1mIw-JTTTUw31riqalYYw3XhkF1R20b48/edit?usp=share_link&ouid=118265590333925180950&rtpof=true&sd=true). **Deadline: 18 Apr 2023, 11:59pm**.
+
+### Lecture Content
+
+- Why semi-supervsied?
+- Semisupervised learning dimensions
+- Pre-training and fine-tuning methods
+
+  - CoVe
+  - TagLM
+  - ELMo
+  - GPT
+  - ULMfit
+  - BERT
+  - BART
+- Evaluation benchmarks
+
+  - GLUE
+  - SQuAD
+  - NER
+  - SuperGLUE
+  - XNLI

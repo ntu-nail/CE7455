@@ -355,3 +355,26 @@ Assignment 2 is out [here](https://docs.google.com/document/d/12_dKuNBAvWeo9YtN6
   - NER
   - SuperGLUE
   - XNLI
+
+## Week 11: Large Pretrained Language Models & Multilingual NLP
+
+[Final project report instruction](https://drive.google.com/file/d/1DZxZ-ZF4J_OPrJMpKRP6lr4NkVR3xG5u/view?usp=share_link)
+
+[Lecture Slide](https://drive.google.com/file/d/1L5H0_e7tVQw-lBELcejppVs2DTY6hb2b/view?usp=share_link)
+
+### Lecture Content
+
+- Large Pretrained Language Models
+- Examples of Large Pretrained Language Models
+- Multilingual NLP
+  - Why we need Multilingual NLP?
+  - Low-resource NLP
+  - Cross-lingual models
+  - Multilingual models
+
+### Suggested Readings
+
+- [XLM paper](https://arxiv.org/abs/1901.07291)
+- [Transformer XL paper](https://arxiv.org/pdf/1901.02860.pdf)
+- [XLNet paper](https://arxiv.org/abs/1906.08237)
+- [mBART paper](https://arxiv.org/abs/2001.08210)

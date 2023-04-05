@@ -378,3 +378,20 @@ Assignment 2 is out [here](https://docs.google.com/document/d/12_dKuNBAvWeo9YtN6
 - [Transformer XL paper](https://arxiv.org/pdf/1901.02860.pdf)
 - [XLNet paper](https://arxiv.org/abs/1906.08237)
 - [mBART paper](https://arxiv.org/abs/2001.08210)
+
+## Week 12: Bias, Robustness, Multimodal NLP & Recap
+
+[Lecture Slide](https://drive.google.com/file/d/16XgwXav5G_sNydoFGJZwHRf08gNvaJVp/view?usp=share_link)
+
+### Lecture Content
+
+- Bias Problem in Deep Learning for NLP
+- Robustness of NLP Deep Learning Models
+- Multimodal NLP
+- Recap
+
+### Suggested Readings
+
+- [Bias in NLP](https://aclanthology.org/2021.acl-long.416.pdf)
+- [Robustness NLP](https://arxiv.org/pdf/2107.13541.pdf)
+- [Multimodal NLP](https://aclanthology.org/2022.lrec-1.738.pdf)

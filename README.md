@@ -62,6 +62,8 @@ In this course, students will learn state-of-the-art deep learning methods for N
 
 <p align="center" width="100%"><a href="https://tuanluu.github.io/">Luu Anh Tuan</a></p>
 
+<p align="center" width="100%"><a href="https://personal.ntu.edu.sg/wangwy/">Wang Wenya</a></p>
+
 
 <p align="center" width="100%">Teaching Assistants</p>
 
@@ -78,6 +80,9 @@ In this course, students will learn state-of-the-art deep learning methods for N
 
 <p align="center" width="100%"><a href="https://vijaydwivedi.com.np/">Vijay Prakash Dwivedi</a></p>
 <p align="center" width="100%">VIJAYPRA001@e.ntu.edu.sg</p>
+
+<p align="center" width="100%">He Qiyuan</p>
+<p align="center" width="100%">qiyuan001@e.ntu.edu.sg</p>
 
 # Schedule & Course Content
 
@@ -111,7 +116,7 @@ In this course, students will learn state-of-the-art deep learning methods for N
 
 ## Week 2: Machine Learning Basics
 
-[Lecture Slide](https://drive.google.com/file/d/1l0seJeDW5hGR7hIvcGIR3YRYoTsK41ie/view?usp=share_link)
+[Lecture Slide](https://drive.google.com/file/d/1GSURTwvYIXAj4EkXbC0GeURpMxt6B8Of/view?usp=sharing)
 
 ### Lecture Content
 

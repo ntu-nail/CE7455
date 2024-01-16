@@ -54,21 +54,19 @@ In this course, students will learn state-of-the-art deep learning methods for N
 
 # Teaching
 
-##Instructor
-
-
+## Instructors
 
 <p align="center" width="100%"><a href="https://personal.ntu.edu.sg/wangwy/">Wang Wenya (Part 1)</a></p>
 
 <p align="center" width="100%"><a href="https://tuanluu.github.io/">Luu Anh Tuan (Part 2)</a></p>
 
-##Teaching Assistants
+## Teaching Assistants
 
 <p align="center" width="100%">He Qiyuan (Part 1)</p>
 <p align="center" width="100%">qiyuan001@e.ntu.edu.sg</p>
 
 <p align="center" width="100%">Wu Xiaobao (Part 2)</p>
-<p align="center" width="100%">Xiaobao002@e.ntu.edu.sg</p>
+<p align="center" width="100%">xiaobao002@e.ntu.edu.sg</p>
 
 # Schedule & Course Content
 

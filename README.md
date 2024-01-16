@@ -64,10 +64,6 @@ In this course, students will learn state-of-the-art deep learning methods for N
 
 <p align="center" width="100%">Teaching Assistants</p>
 
-<p align="center" width="100%">
-    <img width="20%" src="/assets/images/xb.png"> 
-</p>
-
 <p align="center" width="100%">He Qiyuan (Part 1)</p>
 <p align="center" width="100%">qiyuan001@e.ntu.edu.sg</p>
 

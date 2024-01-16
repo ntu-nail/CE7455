@@ -54,7 +54,7 @@ In this course, students will learn state-of-the-art deep learning methods for N
 
 # Teaching
 
-<p align="center" width="100%">Instructor</p>
+##Instructor
 
 
 
@@ -62,7 +62,7 @@ In this course, students will learn state-of-the-art deep learning methods for N
 
 <p align="center" width="100%"><a href="https://tuanluu.github.io/">Luu Anh Tuan (Part 2)</a></p>
 
-<p align="center" width="100%">Teaching Assistants</p>
+##Teaching Assistants
 
 <p align="center" width="100%">He Qiyuan (Part 1)</p>
 <p align="center" width="100%">qiyuan001@e.ntu.edu.sg</p>

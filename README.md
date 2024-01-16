@@ -4,7 +4,7 @@
 
 Natural language processing (NLP) is one of the most important fields in artificial intelligence (AI). It has become very crucial in the information age because most of the information is in the form of unstructured text. NLP technologies are applied everywhere as people communicate mostly in language: language translation, web search, customer support, emails, forums, advertisement, radiology reports, to name a few.
 
-There are a number of core NLP tasks and machine learning models behind NLP applications. Deep learning, a sub-field of machine learning, has recently brought a paradigm shift from traditional task-specific feature engineering to end-to-end systems and has obtained high performance across many different NLP tasks and downstream applications. Tech companies like Google, Baidu, Alibaba, Apple, Amazon, Facebook, Tencent, and Microsoft are now actively working on deep learning methods to improve their products. For example, Google recently replaced its traditional statistical machine translation and speech-recognition systems with systems based on deep learning methods.
+There are several core NLP tasks and machine learning models behind NLP applications. Deep learning, a sub-field of machine learning, has recently brought a paradigm shift from traditional task-specific feature engineering to end-to-end systems and has obtained high performance across many different NLP tasks and downstream applications. Tech companies like Google, Baidu, Alibaba, Apple, Amazon, Facebook, Tencent, and Microsoft are now actively working on deep learning methods to improve their products. For example, Google recently replaced its traditional statistical machine translation and speech-recognition systems with systems based on deep learning methods.
 
 **Optional Textbooks**
 
@@ -15,15 +15,15 @@ There are a number of core NLP tasks and machine learning models behind NLP appl
 
 # Intended Learning Outcomes
 
-In this course, students will learn state-of-the-art deep learning methods for NLP. Through lectures and practical assignments, students will learn the necessary tricks for making their models work on practical problems. They will learn to implement, and possibly to invent their own deep learning models using available deep learning libraries like [Pytorch](https://pytorch.org/).
+In this course, students will learn state-of-the-art deep learning methods for NLP. Through lectures and practical assignments, students will learn the necessary tricks for making their models work on practical problems. They will learn to implement, and possibly invent their deep learning models using available deep learning libraries like [Pytorch](https://pytorch.org/).
 
 **Our Approach**
 
-- Thorough and Detailed: How to write from scratch, debug and train deep neural models
+- Thorough and Detailed: How to write from scratch, debug, and train deep neural models
 
-- State of the art: Most lecture materials are new from research world in the past 1-5 years.
+- State of the art: Most lecture materials are new from the research world in the past 1-5 years.
 
-- Practical: Focus on practical techniques for training the models, and on GPUs.
+- Practical: Focus on practical techniques for training the models on GPUs.
 
 - Fun: Cover exciting new advancements in NLP (e.g., Transformer, BERT).
 
@@ -31,24 +31,24 @@ In this course, students will learn state-of-the-art deep learning methods for N
 
 **Weekly Workload**
 
-- Lecture and/or tutorial and/or practical problems implemented in PyTorch.
-- There will be NO office hour.
+- Lecture and practical problems implemented in PyTorch.
+- There will be NO office hours.
 
 **Assignments (individually graded)**
 
-- There will be two (2) assignments contributing to ***2 * 25% = 50%*** of the total assessment.
+- Two (2) assignments will contribute to ***2 * 25% = 50%*** of the total assessment.
 - Students will be graded individually on the assignments. They will be allowed to discuss with each other on the homework assignments, but they are required to submit individual write-ups and coding exercises.
 
 **Final Project (Group work but individually graded)**
 
-- There will be a final project contributing to the remaining 50% of the total course-work assessment.
-  - ***2–4*** people per group
-  - Project proposal: ***5%***, presentation: ***10%***, report: ***35%***
-- The project will be a group work. Students will be graded individually, depending on the contribution to the group. The final project presentation will ensure the student’s understanding of the project.
+- There will be a final project contributing to the remaining 50% of the total coursework assessment.
+  - ***3–5*** students per group
+  - Project proposal: ***5%***, presentation: ***15%***, report: ***30%***
+- The project will be a group work. Students will be graded individually, depending on their contribution to the group. The final project presentation will ensure the student’s understanding of the project.
 
 # Course Prerequisites
 
-- Proficiency in Python (using numpy and PyTorch). There is a lecture for those who are not familiar with Python.
+- Proficiency in Python (using Numpy and PyTorch). There is a lecture for those who are not familiar with Python.
 - Linear Algebra, basic Probability and Statistics
 - Machine Learning basics
 
@@ -56,14 +56,11 @@ In this course, students will learn state-of-the-art deep learning methods for N
 
 <p align="center" width="100%">Instructor</p>
 
-<p align="center" width="100%">
-    <img width="20%" src="https://ntu-nail.github.io/People/Luu_Anh_Tuan.png"> 
-</p>
 
-<p align="center" width="100%"><a href="https://tuanluu.github.io/">Luu Anh Tuan</a></p>
 
-<p align="center" width="100%"><a href="https://personal.ntu.edu.sg/wangwy/">Wang Wenya</a></p>
+<p align="center" width="100%"><a href="https://personal.ntu.edu.sg/wangwy/">Wang Wenya (Part 1)</a></p>
 
+<p align="center" width="100%"><a href="https://tuanluu.github.io/">Luu Anh Tuan (Part 2)</a></p>
 
 <p align="center" width="100%">Teaching Assistants</p>
 
@@ -71,24 +68,17 @@ In this course, students will learn state-of-the-art deep learning methods for N
     <img width="20%" src="/assets/images/xb.png"> 
 </p>
 
-<p align="center" width="100%">Wu Xiaobao</p>
-<p align="center" width="100%">Xiaobao002@e.ntu.edu.sg</p>
-
-<p align="center" width="100%">
-    <img width="20%" src="/assets/images/pp.png"> 
-</p>
-
-<p align="center" width="100%"><a href="https://vijaydwivedi.com.np/">Vijay Prakash Dwivedi</a></p>
-<p align="center" width="100%">VIJAYPRA001@e.ntu.edu.sg</p>
-
-<p align="center" width="100%">He Qiyuan</p>
+<p align="center" width="100%">He Qiyuan (Part 1)</p>
 <p align="center" width="100%">qiyuan001@e.ntu.edu.sg</p>
+
+<p align="center" width="100%">Wu Xiaobao (Part 2)</p>
+<p align="center" width="100%">Xiaobao002@e.ntu.edu.sg</p>
 
 # Schedule & Course Content
 
 ## Week 1: Introduction
 
-[Lecture Slide](https://drive.google.com/file/d/12gpnOspdeMsqjEWoiHrniz0Y2rtrs3-4/view?usp=share_link)
+[Lecture Slide](https://drive.google.com/file/d/1cVAxrntk1Q4R_LC1zFQufkfyakG21E-y/view?usp=sharing)
 
 ### Lecture Content
 
@@ -105,15 +95,16 @@ In this course, students will learn state-of-the-art deep learning methods for N
 
 - Programming in Python
 
-  - Jupiter Notebook and [google colab](https://colab.research.google.com/drive/16pBJQePbqkz3QFV54L4NIkOn1kwpuRrj)
-  - [Introduction to python](https://colab.research.google.com/drive/1bQG32CFoMZ-jBk02uaFon60tER3yFx4c)
+  - Jupiter Notebook and [Google Colab](https://colab.research.google.com/drive/16pBJQePbqkz3QFV54L4NIkOn1kwpuRrj)
+  - [Introduction to Python](https://colab.research.google.com/drive/1bQG32CFoMZ-jBk02uaFon60tER3yFx4c)
   - Deep Learning Frameworks
   - Why Pytorch?
   - [Deep learning with PyTorch](https://drive.google.com/file/d/1c33y8bkdr7SJ_I8-wmqTAhld-y7KcspA/view?usp=sharing)
 - [Supplementary]
-  - Numerical programming with numpy/scipy - [Numpy intro](https://drive.google.com/file/d/1cUzRzQGURrCKes8XynvTTA4Zvl_gUJdc/view?usp=sharing)
+  - Numerical programming with Numpy/Scipy - [Numpy intro](https://drive.google.com/file/d/1cUzRzQGURrCKes8XynvTTA4Zvl_gUJdc/view?usp=sharing)
   - Numerical programming with Pytorch - [Pytorch intro](https://drive.google.com/file/d/18cgPOj2QKQN0WR9_vXoz6BoravvS9mTm/view?usp=sharing)
 
+<!--
 ## Week 2: Machine Learning Basics
 
 [Lecture Slide](https://drive.google.com/file/d/1GSURTwvYIXAj4EkXbC0GeURpMxt6B8Of/view?usp=sharing)
@@ -222,7 +213,6 @@ In this course, students will learn state-of-the-art deep learning methods for N
 ## Week 6: Recurrent Neural Nets
 
 [Lecture Slide](https://drive.google.com/file/d/1yD4_eZwAw_8bwsDR-OupJzBOMexDGLE-/view?usp=share_link)
-<!-- [Tutorial 3](https://drive.google.com/file/d/1YIZn3SzcRdVtagCp9D1RhsgCs0H83FNv/view?usp=sharing) -->
 
 ### Lecture Content
 
@@ -260,7 +250,6 @@ In this course, students will learn state-of-the-art deep learning methods for N
 [Lecture Slide](https://drive.google.com/file/d/1_E7k3uiH6hoaKZdOLVjvFNapxVdwLIgZ/view?usp=share_link)
 
 Assignment 1 is out [here](https://drive.google.com/file/d/1H5k0ciYVTwz18-Rgilo60lhy28EL8UIz/view?usp=share_link). **Deadline: 22 March 2023**.
-<!-- [Tutorial]() -->
 
 ### Lecture Content
 
@@ -296,11 +285,11 @@ Assignment 1 is out [here](https://drive.google.com/file/d/1H5k0ciYVTwz18-Rgilo6
 - Byte-pair encoding
 - Hybrid models
 
-<!--
+
 ### Practical exercise with Pytorch
 
 - [Neural machine translation tutorial in pytorch](https://colab.research.google.com/drive/1cYyBxmdjFjKls0CEsPc8WIHfxPDy4eSq)
--->
+
 
 ### Suggested Readings
 
@@ -400,3 +389,4 @@ Assignment 2 is out [here](https://docs.google.com/document/d/12_dKuNBAvWeo9YtN6
 - [Bias in NLP](https://aclanthology.org/2021.acl-long.416.pdf)
 - [Robustness NLP](https://arxiv.org/pdf/2107.13541.pdf)
 - [Multimodal NLP](https://aclanthology.org/2022.lrec-1.738.pdf)
+-->

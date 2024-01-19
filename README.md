@@ -101,7 +101,7 @@ In this course, students will learn state-of-the-art deep learning methods for N
 
 ## Week 2: Machine Learning Basics
 
-[Lecture Slide](https://drive.google.com/file/d/1GSURTwvYIXAj4EkXbC0GeURpMxt6B8Of/view?usp=sharing)
+[Lecture Slide](https://drive.google.com/file/d/11tTHfHveyF9aODV8vFvOaNonv46x6fdd/view?usp=sharing)
 
 ### Lecture Content
 
@@ -116,7 +116,7 @@ In this course, students will learn state-of-the-art deep learning methods for N
 ### Practical exercise with Pytorch
 
 - [Deep learning with PyTorch](https://colab.research.google.com/drive/1aZVfsPUko-ugt1TVCmRwqGJXlxEJVaTq?usp=sharing)
-- [Linear Regressionn](https://colab.research.google.com/drive/12QpBf7x_Jt6-zypN4OrUFFHXz1u6CmYe?usp=sharing)
+- [Linear Regression](https://colab.research.google.com/drive/12QpBf7x_Jt6-zypN4OrUFFHXz1u6CmYe?usp=sharing)
 - [Logistic Regression](https://colab.research.google.com/drive/1nTrYW5dUu6WO9cx7SGEvP9oX7qRbsGJk?usp=sharing)
 - [Supplementary]
   - Numerical programming with Pytorch - [Pytorch intro](https://drive.google.com/file/d/18cgPOj2QKQN0WR9_vXoz6BoravvS9mTm/view?usp=sharing)

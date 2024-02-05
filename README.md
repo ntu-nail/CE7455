@@ -149,9 +149,11 @@ In this course, students will learn state-of-the-art deep learning methods for N
 
 [Lecture Slide](https://drive.google.com/file/d/1A2TAzzNLR_tUMS2dBf6P7x6sP1u72MIb/view?usp=sharing)
 
-<!--
-[Project Proposal Instruction](https://drive.google.com/file/d/15YlBKNN61fCLkSLzGERHjROVY_-SlwnA/view?usp=share_link)
--->
+
+[Project Proposal Instruction](https://docs.google.com/document/d/1i6QlzNX-HDjkW5HwRTLX8lYC6F4tCwhO40oqUItMP_s/edit?usp=sharing)
+
+[Group Allocation (form your own group](https://docs.google.com/spreadsheets/d/1Pc8EEMBXj9tjUUT7VSfWtyfekHYfvHMRpTqXDVaRhAo/edit?usp=sharing)
+
 
 ### Lecture Content
 

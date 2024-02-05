@@ -152,7 +152,7 @@ In this course, students will learn state-of-the-art deep learning methods for N
 
 [Project Proposal Instruction](https://docs.google.com/document/d/1i6QlzNX-HDjkW5HwRTLX8lYC6F4tCwhO40oqUItMP_s/edit?usp=sharing)
 
-[Group Allocation (form your own group](https://docs.google.com/spreadsheets/d/1Pc8EEMBXj9tjUUT7VSfWtyfekHYfvHMRpTqXDVaRhAo/edit?usp=sharing)
+[Group Allocation (form your own group)](https://docs.google.com/spreadsheets/d/1Pc8EEMBXj9tjUUT7VSfWtyfekHYfvHMRpTqXDVaRhAo/edit?usp=sharing)
 
 
 ### Lecture Content

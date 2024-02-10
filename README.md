@@ -210,6 +210,7 @@ In this course, students will learn state-of-the-art deep learning methods for N
 ### Practical exercise with Pytorch
 
 [Named Entity Recognition](https://colab.research.google.com/drive/1aDFQtSCYBpgRwkj9eq8Rao9eq5_68C31)
+
 [CNN for text classification](https://colab.research.google.com/drive/1r3qUTV0AQBV9cUAF0GML6Yu3aMfPdBGQ#scrollTo=mc6ZP_xosSil)
 
 <!--

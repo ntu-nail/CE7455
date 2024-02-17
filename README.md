@@ -237,6 +237,7 @@ In this course, students will learn state-of-the-art deep learning methods for N
 <!-- 
 - [POS Tagging](https://notebook.community/sameersingh/uci-statnlp/tutorials/rnn_examples)
 --!>
+
 - [POS Tagging](https://colab.research.google.com/drive/1a_0JGhg-N9pItzUDwfULtuxdbnh1m1y8)
 
 ### Suggested Readings

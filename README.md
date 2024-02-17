@@ -238,7 +238,7 @@ In this course, students will learn state-of-the-art deep learning methods for N
 
 <!-- 
 - [POS Tagging](https://notebook.community/sameersingh/uci-statnlp/tutorials/rnn_examples)
---!>
+-->
 
 
 
@@ -256,7 +256,7 @@ In this course, students will learn state-of-the-art deep learning methods for N
 - [Adaptive Softmax Paper](https://arxiv.org/abs/1609.04309)
 - [Adaptive Input representation paper](https://openreview.net/pdf?id=ByxZX20qFQ)
 - [KNN-LM paper](https://openreview.net/forum?id=HklBjCEKvH)
---!>
+-->
 
 <!--
 ## Week 7: Machine translation and Seq2Seg Models

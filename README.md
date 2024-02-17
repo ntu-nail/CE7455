@@ -213,10 +213,10 @@ In this course, students will learn state-of-the-art deep learning methods for N
 
 [CNN for text classification](https://colab.research.google.com/drive/1r3qUTV0AQBV9cUAF0GML6Yu3aMfPdBGQ#scrollTo=mc6ZP_xosSil)
 
-<!--
+
 ## Week 6: Recurrent Neural Nets
 
-[Lecture Slide](https://drive.google.com/file/d/1yD4_eZwAw_8bwsDR-OupJzBOMexDGLE-/view?usp=share_link)
+[Lecture Slide](https://drive.google.com/file/d/1iN85TEGdv82k4Ji3GyHg69mQBpifOgL_/view?usp=sharing)
 
 ### Lecture Content
 
@@ -230,6 +230,7 @@ In this course, students will learn state-of-the-art deep learning methods for N
 - Gated Recurrent Units (GRUs) and LSTMs
 - Bidirectional RNNs
 - Multi-layer RNNs
+- Recursive Neural Nets
 
 ### Practical exercise with Pytorch (CNN and RNN for NER)
 
@@ -244,11 +245,14 @@ In this course, students will learn state-of-the-art deep learning methods for N
 - [Colah’s blog on LSTMs/GRUs](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 - [Neural Architectures for Named Entity Recognition](https://www.aclweb.org/anthology/N16-1030/)
 - [Fine-grained Opinion Mining with Recurrent Neural Networks and Word Embeddings](https://www.aclweb.org/anthology/D15-1168/)
+<!--
 - [Zero-Resource Cross-Lingual NER](https://arxiv.org/abs/1911.09812)
 - [Adaptive Softmax Paper](https://arxiv.org/abs/1609.04309)
 - [Adaptive Input representation paper](https://openreview.net/pdf?id=ByxZX20qFQ)
 - [KNN-LM paper](https://openreview.net/forum?id=HklBjCEKvH)
+--!>
 
+<!--
 ## Week 7: Machine translation and Seq2Seg Models
 
 [Lecture Slide](https://drive.google.com/file/d/1_E7k3uiH6hoaKZdOLVjvFNapxVdwLIgZ/view?usp=share_link)

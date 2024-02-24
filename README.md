@@ -260,12 +260,10 @@ Assignment 1 is out [here](https://docs.google.com/document/d/1oVHB2kby-G9ikIdS6
 - [KNN-LM paper](https://openreview.net/forum?id=HklBjCEKvH)
 -->
 
-<!--
+
 ## Week 7: Machine translation and Seq2Seg Models
 
-[Lecture Slide](https://drive.google.com/file/d/1_E7k3uiH6hoaKZdOLVjvFNapxVdwLIgZ/view?usp=share_link)
-
-Assignment 1 is out [here](https://drive.google.com/file/d/1H5k0ciYVTwz18-Rgilo60lhy28EL8UIz/view?usp=share_link). **Deadline: 22 March 2023**.
+[Lecture Slide](https://drive.google.com/file/d/1kSltXeWF1BJyQO0rgn7C1pbiL185SuUh/view?usp=sharing)
 
 ### Lecture Content
 
@@ -273,7 +271,6 @@ Assignment 1 is out [here](https://drive.google.com/file/d/1H5k0ciYVTwz18-Rgilo6
   - Early days (1950s)
   - Statistical machine translation or SMT (1990-2010)
   - Alignment in SMT
-  - Decoding in SMT
   - Neural machine translation or NMT (2014 - )
 - Encoder-decoder model for NMT
 - Advantages and disadvantages of NMT
@@ -288,6 +285,11 @@ Assignment 1 is out [here](https://drive.google.com/file/d/1H5k0ciYVTwz18-Rgilo6
 - [A Neural Conversational Model](https://arxiv.org/abs/1506.05869)
 - [BLEU (original paper)](https://www.aclweb.org/anthology/P02-1040.pdf)
 
+### Practical exercise with Pytorch
+
+- [Neural Machine Translation](https://colab.research.google.com/drive/1htCUnTIFY9NAhbANuuZEeHGxvfPGHBdK)
+
+<!--
 ## Week 8: Seq2Seg Models, Attentions, Subwords
 
 [Lecture Slide](https://drive.google.com/file/d/14stMogPaHp6-s2bQqo-eR1FvzJ5Dt_T1/view?usp=share_link)

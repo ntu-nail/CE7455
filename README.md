@@ -289,7 +289,7 @@ Assignment 1 is out [here](https://docs.google.com/document/d/1oVHB2kby-G9ikIdS6
 
 - [Neural Machine Translation](https://colab.research.google.com/drive/1htCUnTIFY9NAhbANuuZEeHGxvfPGHBdK)
 
-<!--
+
 ## Week 8: Seq2Seg Models, Attentions, Subwords
 
 [Lecture Slide](https://drive.google.com/file/d/14stMogPaHp6-s2bQqo-eR1FvzJ5Dt_T1/view?usp=share_link)
@@ -314,6 +314,8 @@ Assignment 1 is out [here](https://docs.google.com/document/d/1oVHB2kby-G9ikIdS6
 - [Neural Machine Translation by Jointly Learning to Align and Translate (original seq2seq+attention paper)](https://arxiv.org/pdf/1409.0473.pdf)
 - [Effective Approaches to Attention-based Neural Machine Translation](https://nlp.stanford.edu/~lmthang/data/papers/emnlp15_attn.pdf)
 - [Achieving Open Vocabulary Neural Machine Translation with Hybrid Word-Character Models](https://arxiv.org/abs/1604.00788)
+
+<!--
 
 ## Week 9: Seq2Seq Variants and Transformer
 

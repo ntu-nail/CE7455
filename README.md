@@ -65,8 +65,8 @@ In this course, students will learn state-of-the-art deep learning methods for N
 <p align="center" width="100%">He Qiyuan (Part 1)</p>
 <p align="center" width="100%">qiyuan001@e.ntu.edu.sg</p>
 
-<p align="center" width="100%">Wu Xiaobao (Part 2)</p>
-<p align="center" width="100%">xiaobao002@e.ntu.edu.sg</p>
+<p align="center" width="100%">Nguyen Tran Cong Duy (Part 2)</p>
+<p align="center" width="100%">nguyentr003@e.ntu.edu.sg</p>
 
 # Schedule & Course Content
 

@@ -372,6 +372,16 @@ Assignment 1 is out [here](https://docs.google.com/document/d/1oVHB2kby-G9ikIdS6
   - SuperGLUE
   - XNLI
 
+[Pre-train Fine-tune with HF](https://colab.research.google.com/drive/1L_hwnQISoIBrH7W_r83I62hJ4FBlfNsz?usp=sharing)
+
+### Suggested Readings
+
+- [Cove Paper](https://arxiv.org/pdf/1708.00107.pdf)
+- [ULMFit paper](https://arxiv.org/abs/1801.06146)
+- [BERT Paper](https://arxiv.org/abs/1810.04805)
+- [ELMo paper](https://arxiv.org/abs/1802.05365)
+- [BART paper](https://arxiv.org/abs/1910.13461)
+
 <!--
 ## Week 11: Large Pretrained Language Models & Multilingual NLP
 

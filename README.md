@@ -343,13 +343,13 @@ Assignment 1 is out [here](https://docs.google.com/document/d/1oVHB2kby-G9ikIdS6
 - [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
 - [Resurrecting Submodularity in Neural Abstractive Summarization](https://arxiv.org/abs/1911.03014)
 
-<!--
+
 
 ## Week 10: Contextual embeddings and self-supervised learning
 
 [Lecture Slide](https://drive.google.com/file/d/18upNeGM8YdUMl9dn-FqfVrIeFVfb3mtb/view?usp=share_link)
 
-Assignment 2 is out [here](https://docs.google.com/document/d/12_dKuNBAvWeo9YtN6JmU-f78WVH8GkWe/edit?usp=share_link&ouid=118265590333925180950&rtpof=true&sd=true). **Deadline: 19 Apr 2023, 11:59pm**.
+
 
 ### Lecture Content
 
@@ -372,10 +372,11 @@ Assignment 2 is out [here](https://docs.google.com/document/d/12_dKuNBAvWeo9YtN6
   - SuperGLUE
   - XNLI
 
+<!--
 ## Week 11: Large Pretrained Language Models & Multilingual NLP
 
 [Final project report instruction](https://drive.google.com/file/d/1DZxZ-ZF4J_OPrJMpKRP6lr4NkVR3xG5u/view?usp=share_link)
-
+Assignment 2 is out [here](https://docs.google.com/document/d/12_dKuNBAvWeo9YtN6JmU-f78WVH8GkWe/edit?usp=share_link&ouid=118265590333925180950&rtpof=true&sd=true). **Deadline: 19 Apr 2023, 11:59pm**.
 [Lecture Slide](https://drive.google.com/file/d/1L5H0_e7tVQw-lBELcejppVs2DTY6hb2b/view?usp=share_link)
 
 ### Lecture Content

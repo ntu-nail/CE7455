@@ -387,7 +387,9 @@ Assignment 1 is out [here](https://docs.google.com/document/d/1oVHB2kby-G9ikIdS6
 
 
 Assignment 2 is out [here](https://drive.google.com/file/d/1lA9W-Ox9r4DIAQbh8uiVHBJbLQYfQEQF/view?usp=sharing). **Deadline: 24 Apr 2024, 11:59pm**.
+
 [Final project report instruction](https://drive.google.com/file/d/1uChz3KKox_2J9FACBBW6tVRbYi56eb3n/view?usp=sharing)
+
 [Lecture Slide](https://drive.google.com/file/d/1L5H0_e7tVQw-lBELcejppVs2DTY6hb2b/view?usp=share_link)
 
 ### Lecture Content
@@ -407,6 +409,7 @@ Assignment 2 is out [here](https://drive.google.com/file/d/1lA9W-Ox9r4DIAQbh8uiV
 - [XLNet paper](https://arxiv.org/abs/1906.08237)
 - [mBART paper](https://arxiv.org/abs/2001.08210)
 
+<!-- 
 ## Week 12: Bias, Robustness, Multimodal NLP & Recap
 
 [Lecture Slide](https://drive.google.com/file/d/16XgwXav5G_sNydoFGJZwHRf08gNvaJVp/view?usp=share_link)

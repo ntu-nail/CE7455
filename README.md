@@ -382,19 +382,20 @@ Assignment 1 is out [here](https://docs.google.com/document/d/1oVHB2kby-G9ikIdS6
 - [ELMo paper](https://arxiv.org/abs/1802.05365)
 - [BART paper](https://arxiv.org/abs/1910.13461)
 
-<!--
-## Week 11: Large Pretrained Language Models & Multilingual NLP
 
-[Final project report instruction](https://drive.google.com/file/d/1DZxZ-ZF4J_OPrJMpKRP6lr4NkVR3xG5u/view?usp=share_link)
-Assignment 2 is out [here](https://docs.google.com/document/d/12_dKuNBAvWeo9YtN6JmU-f78WVH8GkWe/edit?usp=share_link&ouid=118265590333925180950&rtpof=true&sd=true). **Deadline: 19 Apr 2023, 11:59pm**.
+## Week 11: Large Language Models & Multilingual NLP
+
+
+Assignment 2 is out [here](https://drive.google.com/file/d/1lA9W-Ox9r4DIAQbh8uiVHBJbLQYfQEQF/view?usp=sharing). **Deadline: 24 Apr 2024, 11:59pm**.
+[Final project report instruction](https://drive.google.com/file/d/1uChz3KKox_2J9FACBBW6tVRbYi56eb3n/view?usp=sharing)
 [Lecture Slide](https://drive.google.com/file/d/1L5H0_e7tVQw-lBELcejppVs2DTY6hb2b/view?usp=share_link)
 
 ### Lecture Content
 
-- Large Pretrained Language Models
-- Examples of Large Pretrained Language Models
+- Large Language Models
+- Examples of Large Language Models
 - Multilingual NLP
-  - Why we need Multilingual NLP?
+  - Why do we need Multilingual NLP?
   - Low-resource NLP
   - Cross-lingual models
   - Multilingual models

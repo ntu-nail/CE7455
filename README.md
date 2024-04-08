@@ -409,8 +409,8 @@ Assignment 2 is out [here](https://drive.google.com/file/d/1lA9W-Ox9r4DIAQbh8uiV
 - [XLNet paper](https://arxiv.org/abs/1906.08237)
 - [mBART paper](https://arxiv.org/abs/2001.08210)
 
-<!-- 
-## Week 12: Bias, Robustness, Multimodal NLP & Recap
+
+## Week 12: Bias, Robustness, Hallucination, Multimodal NLP & Recap
 
 [Lecture Slide](https://drive.google.com/file/d/16XgwXav5G_sNydoFGJZwHRf08gNvaJVp/view?usp=share_link)
 
@@ -418,6 +418,7 @@ Assignment 2 is out [here](https://drive.google.com/file/d/1lA9W-Ox9r4DIAQbh8uiV
 
 - Bias Problem in Deep Learning for NLP
 - Robustness of NLP Deep Learning Models
+- Hallucination of LLMs
 - Multimodal NLP
 - Recap
 
@@ -425,5 +426,6 @@ Assignment 2 is out [here](https://drive.google.com/file/d/1lA9W-Ox9r4DIAQbh8uiV
 
 - [Bias in NLP](https://aclanthology.org/2021.acl-long.416.pdf)
 - [Robustness NLP](https://arxiv.org/pdf/2107.13541.pdf)
+- [Hallucination LLMs](https://arxiv.org/pdf/2309.01219.pdf?trk=public_post_comment-text)
 - [Multimodal NLP](https://aclanthology.org/2022.lrec-1.738.pdf)
--->
+

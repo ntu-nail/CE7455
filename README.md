@@ -412,7 +412,7 @@ Assignment 2 is out [here](https://drive.google.com/file/d/1lA9W-Ox9r4DIAQbh8uiV
 
 ## Week 12: Bias, Robustness, Hallucination, Multimodal NLP & Recap
 
-[Lecture Slide](https://drive.google.com/file/d/16XgwXav5G_sNydoFGJZwHRf08gNvaJVp/view?usp=share_link)
+[Lecture Slide](https://drive.google.com/file/d/1bH3rNigKxn3mhJ8KKUeaTi6mMLiRL0SH/view?usp=drive_link)
 
 ### Lecture Content
 

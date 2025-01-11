@@ -238,12 +238,6 @@ Assignment 1 is out [here](https://docs.google.com/document/d/1oVHB2kby-G9ikIdS6
 
 - [POS Tagging](https://colab.research.google.com/drive/1a_0JGhg-N9pItzUDwfULtuxdbnh1m1y8)
 
-<!-- 
-- [POS Tagging](https://notebook.community/sameersingh/uci-statnlp/tutorials/rnn_examples)
--->
-
-
-
 ### Suggested Readings
 
 - [N-gram Language Models](https://web.stanford.edu/~jurafsky/slp3/3.pdf)
@@ -253,12 +247,7 @@ Assignment 1 is out [here](https://docs.google.com/document/d/1oVHB2kby-G9ikIdS6
 - [Colah’s blog on LSTMs/GRUs](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 - [Neural Architectures for Named Entity Recognition](https://www.aclweb.org/anthology/N16-1030/)
 - [Fine-grained Opinion Mining with Recurrent Neural Networks and Word Embeddings](https://www.aclweb.org/anthology/D15-1168/)
-<!--
-- [Zero-Resource Cross-Lingual NER](https://arxiv.org/abs/1911.09812)
-- [Adaptive Softmax Paper](https://arxiv.org/abs/1609.04309)
-- [Adaptive Input representation paper](https://openreview.net/pdf?id=ByxZX20qFQ)
-- [KNN-LM paper](https://openreview.net/forum?id=HklBjCEKvH)
--->
+
 
 
 ## Week 7: Machine translation and Seq2Seg Models

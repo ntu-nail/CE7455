@@ -98,20 +98,19 @@ In this course, students will learn state-of-the-art deep learning methods for N
   - Numerical programming with Numpy/Scipy - [Numpy intro](https://drive.google.com/file/d/1cUzRzQGURrCKes8XynvTTA4Zvl_gUJdc/view?usp=sharing)
   - Numerical programming with Pytorch - [Pytorch intro](https://drive.google.com/file/d/18cgPOj2QKQN0WR9_vXoz6BoravvS9mTm/view?usp=sharing)
 
-<!--
+
 ## Week 2: Machine Learning Basics
 
-[Lecture Slide](https://drive.google.com/file/d/11tTHfHveyF9aODV8vFvOaNonv46x6fdd/view?usp=sharing)
+[Lecture Slide](https://docs.google.com/presentation/d/1oRnv9yGMOm2vbznzS7ii4TB7PCxVD1bawtAGBAj0kwU/edit?usp=sharing)
 
 ### Lecture Content
 
 - What is Machine Learning?
-- Supervised vs. unsupervised learning
-- Linear Regression
+- Machine learning for text classification
+- Naive Bayes
 - Logistic Regression
 - Multi-class classification
-- Parameter estimation
-- Gradient-based optimization & SGD
+- Gradient-based optimization
 
 ### Practical exercise with Pytorch
 
@@ -122,6 +121,7 @@ In this course, students will learn state-of-the-art deep learning methods for N
   - Numerical programming with Pytorch - [Pytorch intro](https://drive.google.com/file/d/18cgPOj2QKQN0WR9_vXoz6BoravvS9mTm/view?usp=sharing)
 
 
+<!--
 ## Week 3: Neural Networks & Optimization Basics
 
 [Lecture Slide](https://drive.google.com/file/d/1KXS9id8iA8re4Ejx3LaNYwVdCoyMwUXt/view?usp=sharing)

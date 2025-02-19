@@ -218,9 +218,9 @@ In this course, students will learn state-of-the-art deep learning methods for N
 
 [Lecture Slide](https://drive.google.com/file/d/1jGUvuEp1rhNXsXK-BBpnlmmucqGt4uLc/view?usp=sharing)
 
-<!--
-Assignment 1 is out [here](https://docs.google.com/document/d/1oVHB2kby-G9ikIdS6dxnIMiDz1gPbQw4dd7_QghXt7M/edit?usp=sharing). **Deadline: 22 March 2024**.
--->
+
+Assignment 1 is out [here](https://docs.google.com/document/d/1oVHB2kby-G9ikIdS6dxnIMiDz1gPbQw4dd7_QghXt7M/edit?usp=sharing). **Deadline: 23 March 2025**.
+
 ### Lecture Content
 
 

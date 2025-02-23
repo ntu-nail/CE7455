@@ -250,10 +250,10 @@ Assignment 1 is out [here](https://docs.google.com/document/d/1oVHB2kby-G9ikIdS6
 - [Fine-grained Opinion Mining with Recurrent Neural Networks and Word Embeddings](https://www.aclweb.org/anthology/D15-1168/)
 
 
-<!--
-## Week 7: Machine translation and Seq2Seg Models
 
-[Lecture Slide](https://drive.google.com/file/d/1kSltXeWF1BJyQO0rgn7C1pbiL185SuUh/view?usp=sharing)
+## Week 7: Machine translation and Seq2Seq Models
+
+[Lecture Slide](https://drive.google.com/file/d/1BxNxakiFSN9FYEbA2VKSuHQSmWA1sXyz/view?usp=sharing)
 
 ### Lecture Content
 
@@ -264,8 +264,10 @@ Assignment 1 is out [here](https://docs.google.com/document/d/1oVHB2kby-G9ikIdS6
   - Neural machine translation or NMT (2014 - )
 - Encoder-decoder model for NMT
 - Advantages and disadvantages of NMT
-- Greedy vs. beam-search decoding
+- Decoding strategies such as beam search and sampling
 - MT evaluation
+- Other evaluation methods for language generation
+- Review
 
 ### Suggested Readings
 
@@ -279,7 +281,7 @@ Assignment 1 is out [here](https://docs.google.com/document/d/1oVHB2kby-G9ikIdS6
 
 - [Neural Machine Translation](https://colab.research.google.com/drive/1htCUnTIFY9NAhbANuuZEeHGxvfPGHBdK)
 
-
+<!--
 ## Week 8: Seq2Seg Models, Attentions, Subwords
 
 [Lecture Slide](https://drive.google.com/file/d/14stMogPaHp6-s2bQqo-eR1FvzJ5Dt_T1/view?usp=share_link)

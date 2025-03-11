@@ -281,7 +281,7 @@ Assignment 1 is out [here](https://docs.google.com/document/d/1oVHB2kby-G9ikIdS6
 
 - [Neural Machine Translation](https://colab.research.google.com/drive/1htCUnTIFY9NAhbANuuZEeHGxvfPGHBdK)
 
-<!--
+
 ## Week 8: Seq2Seg Models, Attentions, Subwords
 
 [Lecture Slide](https://drive.google.com/file/d/14stMogPaHp6-s2bQqo-eR1FvzJ5Dt_T1/view?usp=share_link)
@@ -308,7 +308,7 @@ Assignment 1 is out [here](https://docs.google.com/document/d/1oVHB2kby-G9ikIdS6
 - [Achieving Open Vocabulary Neural Machine Translation with Hybrid Word-Character Models](https://arxiv.org/abs/1604.00788)
 
 
-
+<!--
 ## Week 9: Seq2Seq Variants and Transformer
 
 [Lecture Slide](https://drive.google.com/file/d/1wWxMg_tIVdShRccSyH-v38g-LKmOcO3L/view?usp=sharing)

@@ -378,7 +378,7 @@ Assignment 1 is out [here](https://docs.google.com/document/d/1oVHB2kby-G9ikIdS6
 ## Week 11: Large Language Models & Multilingual NLP
 
 
-Assignment 2 is out [here](https://docs.google.com/document/d/1AonpEdaFc3Tgu0RdEux-ZMaJ0-RHOrPp/edit?usp=sharing&ouid=118265590333925180950&rtpof=true&sd=true). **Deadline: 23 Apr 2024, 11:59pm**.
+Assignment 2 is out [here](https://docs.google.com/document/d/1AonpEdaFc3Tgu0RdEux-ZMaJ0-RHOrPp/edit?usp=sharing&ouid=118265590333925180950&rtpof=true&sd=true). **Deadline: 23 Apr 2025, 11:59pm**.
 
 [Final project report instruction](https://drive.google.com/file/d/1zV7cV4hOMWaq2NcvoHumkx6U16HDATeL/view?usp=sharing)
 

@@ -98,7 +98,7 @@ In this course, students will learn state-of-the-art deep learning methods for N
   - Numerical programming with Numpy/Scipy - [Numpy intro](https://drive.google.com/file/d/1cUzRzQGURrCKes8XynvTTA4Zvl_gUJdc/view?usp=sharing)
   - Numerical programming with Pytorch - [Pytorch intro](https://drive.google.com/file/d/18cgPOj2QKQN0WR9_vXoz6BoravvS9mTm/view?usp=sharing)
 
-
+<!--
 ## Week 2: Machine Learning Basics
 
 [Lecture Slide](https://docs.google.com/presentation/d/1oRnv9yGMOm2vbznzS7ii4TB7PCxVD1bawtAGBAj0kwU/edit?usp=sharing)
@@ -413,7 +413,7 @@ Assignment 2 is out [here](https://docs.google.com/document/d/1AonpEdaFc3Tgu0RdE
 - Least-to-Most Prompting Enables Complex Reasoning in Large Language Models
 - Measuring and Narrowing the Compositionality Gap in Language Models
 
-<!--
+
 
 ## Week 12: Bias, Robustness, Hallucination, Multimodal NLP & Recap
 

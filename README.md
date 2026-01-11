@@ -62,8 +62,8 @@ In this course, students will learn state-of-the-art deep learning methods for N
 
 ## Teaching Assistants
 
-<p align="center" width="100%">He Qiyuan (Part 1)</p>
-<p align="center" width="100%">qiyuan001@e.ntu.edu.sg</p>
+<p align="center" width="100%">Hu Qisheng (Part 1)</p>
+<p align="center" width="100%">qisheng001@e.ntu.edu.sg</p>
 
 <p align="center" width="100%">Nguyen Tran Cong Duy (Part 2)</p>
 <p align="center" width="100%">nguyentr003@e.ntu.edu.sg</p>
@@ -72,7 +72,7 @@ In this course, students will learn state-of-the-art deep learning methods for N
 
 ## Week 1: Introduction
 
-[Lecture Slide](https://drive.google.com/file/d/1cVAxrntk1Q4R_LC1zFQufkfyakG21E-y/view?usp=sharing)
+[Lecture Slide](https://docs.google.com/presentation/d/1sS4dmGlWIKzqmmkKc-8D3cxQXoEuxs2M/edit?usp=sharing&ouid=101209831869362555965&rtpof=true&sd=true)
 
 ### Lecture Content
 

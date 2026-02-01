@@ -145,15 +145,14 @@ In this course, students will learn state-of-the-art deep learning methods for N
   - Initialization
   - Gradient clipping
 
-<!--
+
 ## Week 4: Word Vectors 
 
-[Lecture Slide](https://drive.google.com/file/d/1uLkxAm1vDEPBvYn5lOkMHTtPxSiMOyU5/view?usp=sharing)
-
+[Lecture Slide](https://drive.google.com/file/d/1qbWWUWGJrOK4fS5ffRE0z3CKxsrRGB4-/view?usp=sharing)
 
 [Project Proposal Instruction](https://docs.google.com/document/d/1i6QlzNX-HDjkW5HwRTLX8lYC6F4tCwhO40oqUItMP_s/edit?usp=sharing)
 
-[Group Allocation (form your own group)](https://docs.google.com/spreadsheets/d/13zTwv7U5AFvr7SfBUFFT2W7tWx8PCJm1kVUqpVPFqWg/edit?usp=sharing)
+[Group Allocation (form your own group)](https://docs.google.com/spreadsheets/d/1yMmyzXSYRJ3IUQjb1Oj56jYv6Lauv3PfKVBuuurkTZw/edit?usp=drive_link)
 
 
 ### Lecture Content
@@ -187,7 +186,7 @@ In this course, students will learn state-of-the-art deep learning methods for N
 - [Adversarial autoencoder for unsupervised word translation](https://arxiv.org/abs/1904.04116)
 - [Evaluating Cross-Lingual Word Embeddings](https://www.aclweb.org/anthology/P19-1070)
 
-
+<!--
 ## Week 5: Window-based Approach and Convolutional Nets
 
 [Lecture Slide](https://drive.google.com/file/d/1MpVGB3UBvPhUdcuj0r_ui_WkoMJ5IBUE/view?usp=sharing)

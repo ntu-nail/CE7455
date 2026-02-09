@@ -186,10 +186,10 @@ In this course, students will learn state-of-the-art deep learning methods for N
 - [Adversarial autoencoder for unsupervised word translation](https://arxiv.org/abs/1904.04116)
 - [Evaluating Cross-Lingual Word Embeddings](https://www.aclweb.org/anthology/P19-1070)
 
-<!--
+
 ## Week 5: Window-based Approach and Convolutional Nets
 
-[Lecture Slide](https://drive.google.com/file/d/1bm_gfbmQk6wwj-lNBiEpiaI-1CqkVGqe/view?usp=sharing)
+[Lecture Slide](https://drive.google.com/file/d/1gIC8k0UXtq6_8BCCqqWNx_EkkS0o08DM/view?usp=sharing)
 
 ### Lecture Content
 
@@ -197,7 +197,7 @@ In this course, students will learn state-of-the-art deep learning methods for N
 - Window-based Approach for language modeling
 - Window-based Approach for NER, POS tagging, and Chunking
 - Convolutional Neural Net for NLP
-- Introduction to Recurrent Neural Network
+- Loss functions
 
 ### Suggested Readings
 
@@ -207,7 +207,6 @@ In this course, students will learn state-of-the-art deep learning methods for N
 - [Convolutional Neural Networks for Sentence Classification](https://arxiv.org/abs/1408.5882)
 - [Fast and Accurate Entity Recognition with Iterated Dilated Convolutions](https://arxiv.org/abs/1702.02098)
 - [N-gram Language Models](https://web.stanford.edu/~jurafsky/slp3/3.pdf)
-- [Karpathy’s nice blog on Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 
 ### Practical exercise with Pytorch
 
@@ -215,7 +214,7 @@ In this course, students will learn state-of-the-art deep learning methods for N
 
 [CNN for text classification](https://colab.research.google.com/drive/1r3qUTV0AQBV9cUAF0GML6Yu3aMfPdBGQ#scrollTo=mc6ZP_xosSil)
 
-
+<!--
 ## Week 6: Recurrent Neural Nets
 
 [Lecture Slide](https://drive.google.com/file/d/1jGUvuEp1rhNXsXK-BBpnlmmucqGt4uLc/view?usp=sharing)

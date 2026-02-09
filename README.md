@@ -186,7 +186,7 @@ In this course, students will learn state-of-the-art deep learning methods for N
 - [Adversarial autoencoder for unsupervised word translation](https://arxiv.org/abs/1904.04116)
 - [Evaluating Cross-Lingual Word Embeddings](https://www.aclweb.org/anthology/P19-1070)
 
-
+<!--
 ## Week 5: Window-based Approach and Convolutional Nets
 
 [Lecture Slide](https://drive.google.com/file/d/1bm_gfbmQk6wwj-lNBiEpiaI-1CqkVGqe/view?usp=sharing)
@@ -215,7 +215,7 @@ In this course, students will learn state-of-the-art deep learning methods for N
 
 [CNN for text classification](https://colab.research.google.com/drive/1r3qUTV0AQBV9cUAF0GML6Yu3aMfPdBGQ#scrollTo=mc6ZP_xosSil)
 
-<!--
+
 ## Week 6: Recurrent Neural Nets
 
 [Lecture Slide](https://drive.google.com/file/d/1jGUvuEp1rhNXsXK-BBpnlmmucqGt4uLc/view?usp=sharing)

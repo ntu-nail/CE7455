@@ -214,12 +214,12 @@ In this course, students will learn state-of-the-art deep learning methods for N
 
 [CNN for text classification](https://colab.research.google.com/drive/1r3qUTV0AQBV9cUAF0GML6Yu3aMfPdBGQ#scrollTo=mc6ZP_xosSil)
 
-<!--
+
 ## Week 6: Recurrent Neural Nets
 
-[Lecture Slide](https://drive.google.com/file/d/1jGUvuEp1rhNXsXK-BBpnlmmucqGt4uLc/view?usp=sharing)
+[Lecture Slide](https://drive.google.com/file/d/1nlO81JmdvLsOCy-LKFKfS2utvpC3A4-4/view?usp=sharing)
 
-
+<!--
 Assignment 1 is out [here](https://docs.google.com/document/d/1oVHB2kby-G9ikIdS6dxnIMiDz1gPbQw4dd7_QghXt7M/edit?usp=sharing). **Deadline: 23 March 2025**.
 
 ### Lecture Content

@@ -219,8 +219,6 @@ In this course, students will learn state-of-the-art deep learning methods for N
 
 [Lecture Slide](https://drive.google.com/file/d/1nlO81JmdvLsOCy-LKFKfS2utvpC3A4-4/view?usp=sharing)
 
-
-
 ### Lecture Content
 
 
@@ -249,10 +247,12 @@ In this course, students will learn state-of-the-art deep learning methods for N
 
 <!--
 Assignment 1 is out [here](https://docs.google.com/document/d/1oVHB2kby-G9ikIdS6dxnIMiDz1gPbQw4dd7_QghXt7M/edit?usp=sharing). **Deadline: 23 March 2025**.
-
+## Week 7: Machine translation and Seq2Seq Models
+[Lecture Slide](https://drive.google.com/file/d/1BxNxakiFSN9FYEbA2VKSuHQSmWA1sXyz/view?usp=sharing)
+-->
 ## Week 7: Machine translation and Seq2Seq Models
 
-[Lecture Slide](https://drive.google.com/file/d/1BxNxakiFSN9FYEbA2VKSuHQSmWA1sXyz/view?usp=sharing)
+[Lecture Slide](https://drive.google.com/file/d/1_E7k3uiH6hoaKZdOLVjvFNapxVdwLIgZ/view?usp=drive_link)
 
 ### Lecture Content
 
@@ -280,7 +280,7 @@ Assignment 1 is out [here](https://docs.google.com/document/d/1oVHB2kby-G9ikIdS6
 
 - [Neural Machine Translation](https://colab.research.google.com/drive/1htCUnTIFY9NAhbANuuZEeHGxvfPGHBdK)
 
-
+<!--
 ## Week 8: Seq2Seg Models, Attentions, Subwords
 
 [Lecture Slide](https://drive.google.com/file/d/14stMogPaHp6-s2bQqo-eR1FvzJ5Dt_T1/view?usp=share_link)

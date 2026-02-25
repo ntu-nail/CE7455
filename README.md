@@ -245,8 +245,9 @@ In this course, students will learn state-of-the-art deep learning methods for N
 - [Neural Architectures for Named Entity Recognition](https://www.aclweb.org/anthology/N16-1030/)
 - [Fine-grained Opinion Mining with Recurrent Neural Networks and Word Embeddings](https://www.aclweb.org/anthology/D15-1168/)
 
+
+Assignment 1 is out [here](https://docs.google.com/document/d/1oVHB2kby-G9ikIdS6dxnIMiDz1gPbQw4dd7_QghXt7M/edit?usp=sharing). **Deadline: 25 March 2026**.
 <!--
-Assignment 1 is out [here](https://docs.google.com/document/d/1oVHB2kby-G9ikIdS6dxnIMiDz1gPbQw4dd7_QghXt7M/edit?usp=sharing). **Deadline: 23 March 2025**.
 ## Week 7: Machine translation and Seq2Seq Models
 [Lecture Slide](https://drive.google.com/file/d/1BxNxakiFSN9FYEbA2VKSuHQSmWA1sXyz/view?usp=sharing)
 -->

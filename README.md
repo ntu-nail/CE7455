@@ -15,7 +15,7 @@ There are several core NLP tasks and machine learning models behind NLP applicat
 
 # Intended Learning Outcomes
 
-In this course, students will learn state-of-the-art deep learning methods for NLP. Through lectures and practical assignments, students will learn the necessary tricks for making their models work on practical problems. They will learn to implement, and possibly invent their deep learning models using available deep learning libraries like [Pytorch](https://pytorch.org/).
+In this course, students will learn state-of-the-art deep learning methods for NLP. Through lectures and practical assignments, students will learn the necessary tricks for making their models work on practical problems. They will learn to implement and possibly invent their deep learning models using available deep learning libraries like [Pytorch](https://pytorch.org/).
 
 **Our Approach**
 
@@ -65,8 +65,8 @@ In this course, students will learn state-of-the-art deep learning methods for N
 <p align="center" width="100%">Hu Qisheng (Part 1)</p>
 <p align="center" width="100%">qisheng001@e.ntu.edu.sg</p>
 
-<p align="center" width="100%">Nguyen Tran Cong Duy (Part 2)</p>
-<p align="center" width="100%">nguyentr003@e.ntu.edu.sg</p>
+<p align="center" width="100%">Xu Huimin (Part 2)</p>
+<p align="center" width="100%">huimin003@e.ntu.edu.sg</p>
 
 # Schedule & Course Content
 

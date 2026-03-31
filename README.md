@@ -374,12 +374,12 @@ Assignment 2 is out [here](https://docs.google.com/document/d/1AonpEdaFc3Tgu0RdE
 - [ELMo paper](https://arxiv.org/abs/1802.05365)
 - [BART paper](https://arxiv.org/abs/1910.13461)
 
-<!--
+
 ## Week 11: Large Language Models & Multilingual NLP
 
-[Final project report instruction](https://drive.google.com/file/d/1zV7cV4hOMWaq2NcvoHumkx6U16HDATeL/view?usp=sharing)
+[Final project report instruction](https://docs.google.com/document/d/19Pfl2eEtaO9guNDVPr5_0hvIdUqk_nWb/edit?usp=sharing&ouid=118265590333925180950&rtpof=true&sd=true)
 
-[Lecture Slide](https://drive.google.com/file/d/1L5H0_e7tVQw-lBELcejppVs2DTY6hb2b/view?usp=share_link)
+[Lecture Slide](https://drive.google.com/file/d/1GDv8xeFY-_LWWb6CLKyTwylHY1yDR-8s/view?usp=sharing)
 
 ### Lecture Content
 
@@ -398,6 +398,7 @@ Assignment 2 is out [here](https://docs.google.com/document/d/1AonpEdaFc3Tgu0RdE
 - [XLNet paper](https://arxiv.org/abs/1906.08237)
 - [mBART paper](https://arxiv.org/abs/2001.08210)
 
+<!--
 ## Week 12: LLM Prompting
 
 [Lecture Slide](https://drive.google.com/file/d/1bH3rNigKxn3mhJ8KKUeaTi6mMLiRL0SH/view?usp=sharing)

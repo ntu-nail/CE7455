@@ -412,7 +412,6 @@ Assignment 2 is out [here](https://docs.google.com/document/d/1AonpEdaFc3Tgu0RdE
 - Measuring and Narrowing the Compositionality Gap in Language Models
 
 
-
 ## Week 12: Bias, Robustness, Hallucination, Multimodal NLP & Recap
 
 [Lecture Slide](https://drive.google.com/file/d/1bH3rNigKxn3mhJ8KKUeaTi6mMLiRL0SH/view?usp=drive_link)
@@ -431,4 +430,4 @@ Assignment 2 is out [here](https://docs.google.com/document/d/1AonpEdaFc3Tgu0RdE
 - [Robustness NLP](https://arxiv.org/pdf/2107.13541.pdf)
 - [Hallucination LLMs](https://arxiv.org/pdf/2309.01219.pdf?trk=public_post_comment-text)
 - [Multimodal NLP](https://aclanthology.org/2022.lrec-1.738.pdf)
--->
+

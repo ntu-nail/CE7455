@@ -398,8 +398,19 @@ Assignment 2 is out [here](https://docs.google.com/document/d/1AonpEdaFc3Tgu0RdE
 - [XLNet paper](https://arxiv.org/abs/1906.08237)
 - [mBART paper](https://arxiv.org/abs/2001.08210)
 
+## Week 12: LLM Prompting
 
+[Lecture Slide](https://drive.google.com/file/d/1bH3rNigKxn3mhJ8KKUeaTi6mMLiRL0SH/view?usp=sharing)
 
+### Lecture Content
+
+- Chain-of-Thought Prompting
+- Self-Consistency Improves Chain of Thought Reasoning in Language Models
+- Program of Thoughts Prompting
+- Least-to-Most Prompting Enables Complex Reasoning in Large Language Models
+- Measuring and Narrowing the Compositionality Gap in Language Models
+
+<!--
 ## Week 12: Bias, Robustness, Hallucination, Multimodal NLP & Recap
 
 [Lecture Slide](https://drive.google.com/file/d/1bH3rNigKxn3mhJ8KKUeaTi6mMLiRL0SH/view?usp=drive_link)
@@ -419,15 +430,5 @@ Assignment 2 is out [here](https://docs.google.com/document/d/1AonpEdaFc3Tgu0RdE
 - [Hallucination LLMs](https://arxiv.org/pdf/2309.01219.pdf?trk=public_post_comment-text)
 - [Multimodal NLP](https://aclanthology.org/2022.lrec-1.738.pdf)
 
-<!--
-## Week 12: LLM Prompting
 
-[Lecture Slide](https://drive.google.com/file/d/1bH3rNigKxn3mhJ8KKUeaTi6mMLiRL0SH/view?usp=sharing)
 
-### Lecture Content
-
-- Chain-of-Thought Prompting
-- Self-Consistency Improves Chain of Thought Reasoning in Language Models
-- Program of Thoughts Prompting
-- Least-to-Most Prompting Enables Complex Reasoning in Large Language Models
-- Measuring and Narrowing the Compositionality Gap in Language Models
